@@ -1,4 +1,7 @@
 /**
+ * French (Switzerland) translation for bootstrap-datepicker
+ * Christoph Jossi <c.jossi@ascami.ch>
+ * Based on 
  * French translation for bootstrap-datepicker
  * Nico Mollet <nico.mollet@gmail.com>
  */
@@ -12,6 +15,6 @@
 		today: "Aujourd'hui",
 		clear: "Effacer",
 		weekStart: 1,
-		format: "dd/mm/yyyy"
+		format: "dd.mm.yyyy"
 	};
 }(jQuery));
